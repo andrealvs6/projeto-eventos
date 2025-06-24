@@ -12,7 +12,7 @@ Este é um sistema desktop Java que permite gerenciar **eventos, palestrantes e 
 - Interface gráfica com componentes Swing
 - Validações de regras de negócio (ex: evitar participantes duplicados)
 - Execução local sem dependência de banco de dados
-- 
+
 - ## 🖥️ Tecnologias Utilizadas
 
 - Java SE 8+
